@@ -1,2 +1,2 @@
 # learning-music
-A music to learn music producing
+A music to learn music production
